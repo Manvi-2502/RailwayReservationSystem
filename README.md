@@ -12,6 +12,7 @@ Project Features
 User / Admin Management
 
 Login / Registration:
+![Login & Registration](screenshots/login.png)
 
 New users can create accounts.
 
@@ -23,25 +24,29 @@ userDetails.db ensures correct credentials for both admin and users.
 
 Admin Panel
 
+![Admin Panel](screenshots/admin.png)
 
-
-Add, delete, or modify train/route details.
+Add, delete, or modify train/schedule/no. of seats etc.
 
 Manage train schedules, seat availability, and route information.
 
 Train Search & Booking
+![Train Search](screenshots/search.png)
 
 Search trains by source, destination, and date.
 
 Seat availability table displays number of seats in each coach:
 
 AC1 / AC2 / AC3 / Sleeper
+![Train Schedule](screenshots/trainsAvailable&PassengerDetails.png)
 
 Real-time database updates: Seat availability is updated immediately in the database when tickets are booked or canceled.
 
 Ticket Management
 
 Virtual ticket generation:
+![Ticket Booking](screenshots/ticket.png)
+
 
 After final booking, a virtual ticket is generated showing passenger details, train information, and booking confirmation.
 
