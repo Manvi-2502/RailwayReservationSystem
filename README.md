@@ -38,7 +38,7 @@ Search trains by source, destination, and date.
 Seat availability table displays number of seats in each coach:
 
 AC1 / AC2 / AC3 / Sleeper
-![Train Schedule](screenshots/trainsAvailable&PassengerDetails.png)
+![Train Schedule](screenshots/trainsAvailable&passengerDetails.png)
 
 Real-time database updates: Seat availability is updated immediately in the database when tickets are booked or canceled.
 
